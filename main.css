@@ -1,0 +1,146 @@
+.entire-page {
+  margin:auto;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.intro h1 {
+  background-color: white;
+  padding: 10px 10px 10px 10px;
+  color: black;
+  font-size: 50px;
+  
+}
+
+.Topic {
+  color: white;
+  margin: auto;
+  width: 100%;
+  padding: 20px;
+  background-color: black;
+  overflow: auto;
+}
+
+.intro img {
+  float: right;
+  width: 20%;
+  margin-bottom: 10px;
+
+}
+
+.list {
+  padding: auto;
+  font-size: 50px;
+  border: double white;
+  border-radius: 50px;
+  background-color: #003366;
+}
+
+html {
+  background-color: #837251;
+}
+
+.USDA-THDA-HR {
+  display: flex;
+  flex-wrap: wrap;
+  height 25%;
+  justify-content: space-evenly;
+  background-color: #837251;
+  
+  
+}
+
+.USDA {
+  background-color: white;
+  border-radius: 2px 50px;
+  color: black;
+  font-size: 20px;
+  margin: 10px 20px;
+  padding: 10px 20px 30px 20px;
+
+}
+
+.USDA h3 {
+  color: #003366;
+  border-bottom: solid;
+}
+
+.USDA-link {
+  color: #003366;
+  font-size: 30px;
+
+  float: left;
+}
+#USDA-img {
+  width: auto;
+  height: 100px;
+  margin-top: 3px;
+  float: right;
+}
+
+.THDA {
+  border-radius: 2px 50px;
+  color: white;
+  margin: 10px 20px;
+  padding: 10px 20px 30px 20px;
+  background-color: #333333;
+  font-size: 20px;
+ 
+  
+}
+
+#THDA-Link {
+  color: #6699ff;
+  font-size: 30px;
+}
+
+.THDA h3 {
+  color: #6699ff;
+  border-bottom: solid;
+}
+
+
+.Homeready {
+  color: black;
+  padding: 10px 20px 30px 20px;
+  background-color: lightgrey;
+  border-radius: 25px;
+  font-size: 20px;
+  border-radius: 2px 50px;
+  margin: 10px 20px;
+  padding: 10px 20px 30px 20px;
+}
+
+.Homeready h3 {
+  color: #003366;
+  border-bottom: solid;
+}
+
+.Homeready h4 {
+}
+
+#Homeready-Logo {
+  float: right;
+  width: 30%;
+}
+
+.Homeready-List {
+  color: green;
+  font-size: 35px;
+}
+
+.Homeready-List a {
+  color: green;
+}
+}
+
+.ending p {
+  padding: 5px;
+}
+
+#EHL {
+  float: right;
+  height: 125px;
+  padding: 0px 5px 5px 5px;
+}
